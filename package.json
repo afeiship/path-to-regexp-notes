@@ -1,0 +1,18 @@
+{
+  "name": "path-to-regexp-notes",
+  "version": "1.0.0",
+  "description": "pathToRegexp notes",
+  "homepage": "https://github.com/afeiship/path-to-regexp-notes",
+  "author": {
+    "name": "afei",
+    "email": "1290657123@qq.com"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "path-to-regexp": "^3.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
